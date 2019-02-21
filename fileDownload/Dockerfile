@@ -1,2 +1,2 @@
 FROM busybox
-RUN wget https://github.com/alswl/yugong/releases/download/541e5f8/yugong-shaded.jar
+RUN wget https://github.com/alibaba/yugong/releases/download/yugong-1.0.3/yugong-1.0.3.tar.gz
