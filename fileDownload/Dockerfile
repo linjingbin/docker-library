@@ -1,2 +1,2 @@
 FROM busybox
-RUN wget https://github.com/alibaba/yugong/releases/download/yugong-1.0.3/yugong-1.0.3.tar.gz
+RUN wget https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_v1.2.1-stable.zip
