@@ -1,2 +1,2 @@
 FROM busybox
-RUN wget https://github.com/etcd-io/etcd/releases/download/v3.3.10/etcd-v3.3.12-linux-amd64.tar.gz
+RUN wget https://storage.googleapis.com/harbor-releases/release-1.7.0/harbor-offline-installer-v1.7.4.tgz
